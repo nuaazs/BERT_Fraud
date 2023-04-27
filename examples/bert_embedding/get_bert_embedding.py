@@ -1,4 +1,3 @@
-
 import torch
 from bert_seq2seq import Tokenizer
 from bert_seq2seq import load_model
